@@ -1,0 +1,4 @@
+From: billing@xyz-power.example
+Subject: Your electricity bill for August
+Dear Customer, your electricity bill of Rs. 2500 is due on 2026-09-20.
+Consumer name: Ramesh Kumar. Please pay before the due date to avoid a late fee.
